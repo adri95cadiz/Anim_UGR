@@ -1,0 +1,4 @@
+Para ambos ejercicios he utilizado animación inversa ya que es la que mejor utilizo y manejo para hacer animaciones más expresivas, aún así considero que en el ejercicio 3.2
+(el saludo) la animación directa podría ser más útil, ya que el saludo es una rotación en la mano y brazo que se podría parametrizar fácilmente, por otro lado la animación 
+de limpiar la mesa considero que si que es mejor hacer animación inversa en sí ya que es una animación más compleja que requiere una animación más controlada y posee
+unas posiciones clave mucho más complejas para el personaje al que se le apliquen.
