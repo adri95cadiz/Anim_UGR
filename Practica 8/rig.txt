@@ -1,0 +1,7 @@
+He decidido hacer el rig del robot de 4 patas, específicamente basado en el AT-AT de Star Wars mostrado en la fotografía de la práctica.
+El rig ha sido construido con Cat, a partir de dos hubs centrales, cada uno con dos patas y el delantero con su correspondiente cabeza.
+Utilizarlo es muy simple, se selecciona el miembro a rotar y se coloca en su posición concreta.
+He creado dos animaciones con este rig: la primera, una sencilla animación de caminar en la cual el robot mueve primero la pata delantera derecha, seguida de la trasera,
+y a continuación moviendo las dos izquierdas, al igual que el AT-AT de Star Wars se mueve en la película.
+La segunda animación algo más compleja, es la caida del robot al suelo tras ser derribado, se intenta reincorporar, pero no puede, esta animación aunque algo compleja, con 
+el rig realizado ha resultado bastante simple.
